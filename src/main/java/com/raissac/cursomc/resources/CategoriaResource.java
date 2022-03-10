@@ -23,6 +23,7 @@ public class CategoriaResource {
 		
 		listaCategoria.add(cat1);
 		listaCategoria.add(cat2);
+		
 		return listaCategoria;
 		
 	}
